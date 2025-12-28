@@ -1,2 +1,2 @@
 # app
-app di prova 
+app di prova progetto sito web per babbo, con questo sito web babbo può accedere a tutto quello che gli serve come fb, yt, ig, tt, etc...
